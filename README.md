@@ -57,7 +57,7 @@
 
   <!-- Working Animated Graphic -->
   <p>
-    <img src="https://media.giphy.com/media/3ov9jLsBqPH6rZV4CQ/giphy.gif" width="300px" alt="Bouncing Animation" />
+    <img src="file:///C:/Users/WIN%2010/Desktop/pictures%20for%20github/bouncy-balls.svg" width="300px" alt="Bouncing Animation" />
   </p>
   
   <a href="https://github.com/Genfentsu" target="_blank">
