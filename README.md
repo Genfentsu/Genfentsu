@@ -68,7 +68,10 @@
 
 ### 🐍 Snake Contribution Graph
 
-  <img src="https://raw.githubusercontent.com/Genfentsu/Genfentsu/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Genfentsu/Genfentsu/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Genfentsu/Genfentsu/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</picture>
 
 </div>
 
