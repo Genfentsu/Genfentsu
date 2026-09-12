@@ -63,10 +63,12 @@
 
 ---
 
+<div align="center">
+
 ### 🐍 Snake Contribution Graph
 
-<div align="center">
   <img src="https://raw.githubusercontent.com/Genfentsu/Genfentsu/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
 </div>
 
 ---
