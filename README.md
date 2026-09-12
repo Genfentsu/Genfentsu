@@ -7,12 +7,12 @@
     </td>
     <td align="left" valign="middle" style="border: none !important; background: transparent !important;">
       <div style="margin-bottom: 0px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=30&duration=5000&pause=10000000&color=FFFFFF&center=false&vCenter=true&width=300&height=32&lines=Genfentsu" alt="Genfentsu" style="vertical-align: middle;" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=26&duration=5000&pause=10000000&color=FFFFFF&center=false&vCenter=true&width=260&height=40&lines=Genfentsu" alt="Genfentsu" style="vertical-align: middle;" />
         <a href="https://github.com/Genfentsu" style="margin-left: 10px; vertical-align: middle;">
           <img src="https://komarev.com/ghpvc/?username=Genfentsu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
         </a>
       </div>
-      <hr style="border: 0; height: 1px; background: #444444; margin: 6px 0;" />
+      <hr style="border: 0; height: 1px; background: #444444; margin: 10px 0;" />
       <p align="left" style="color: #A3A3A3; font-family: monospace; font-size: 13px; margin: 0;">
         <em>BSIT 3rd Year Undergraduate | Software Developer & Tech Enthusiast</em>
       </p>
