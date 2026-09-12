@@ -3,16 +3,16 @@
 <table style="border: none; background: transparent;">
   <tr>
     <td align="center" valign="middle" style="border: none; padding-right: 25px;">
-      <img src="./assets/numba1.jpg" width="180px" alt="Profile Picture" style="border-radius: 50%;" />
+      <img src="./assets/numba1.jpg" width="180px" alt="Profile Picture" style="border-radius: 50%; border: 3px solid #FFFFFF;" />
     </td>
     <td align="left" valign="middle" style="border: none;">
-      <h1 align="left">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=26&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=400&height=50&lines=Genfentsu" alt="Genfentsu" />
-        <a href="https://github.com/Genfentsu">
-          <img src="https://komarev.com/ghpvc/?username=Genfentsu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+      <h1 align="left" style="margin-bottom: 5px; display: flex; align-items: center;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=26&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=280&height=50&lines=Genfentsu" alt="Genfentsu" style="vertical-align: middle;" />
+        <a href="https://github.com/Genfentsu" style="margin-left: 10px; vertical-align: middle;">
+          <img src="https://komarev.com/ghpvc/?username=Genfentsu&label=Profile%20Views&color=ffffff&style=flat&logoColor=black" alt="Profile Views" />
         </a>
       </h1>
-      <p align="left">
+      <p align="left" style="color: #A3A3A3; font-family: monospace; font-size: 14px; margin-top: 5px;">
         <em>BSIT 3rd Year Undergraduate | Software Developer & Tech Enthusiast</em>
       </p>
     </td>
@@ -22,11 +22,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Hi+i+am+Steven+Leosala;AKA+Genfentsu;IT+Professional;Crafting+%2C+Developing+and+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Hi+i+am+Steven+Leosala;AKA+Genfentsu;IT+Professional;Crafting+%2C+Developing+and+Solving" alt="Typing SVG" />
 </p>
 
 </div>
-
 ---
 
 ### 🚀 About Me
