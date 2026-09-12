@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Profile Picture -->
-<img src="./numba1.jpg" width="65%" alt="Profile Picture" />
+<img src="./assets/numba1.jpg" width="65%" alt="Profile Picture" />
 
 # ✨ Hi, I'm Steven James P. Leosala <a href="https://github.com/Genfentsu"><img src="https://komarev.com/ghpvc/?username=Genfentsu&label=Profile%20Views&color=0e75b6&style=flat" alt="Genfentsu" /></a>
 
@@ -29,17 +29,17 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="./guy.jpeg" width="220px" alt="Music" /><br/>
+        <img src="./assets/guy.jpeg" width="220px" alt="Music" /><br/>
         <b>Music</b><br/>
         <i>My GUY.</i>
       </td>
       <td align="center" width="33%">
-        <img src="./mellow.jpeg" width="220px" alt="Food" /><br/>
+        <img src="./assets/mellow.jpeg" width="220px" alt="Food" /><br/>
         <b>Food</b><br/>
         <i>I'mma Be Snacking.</i>
       </td>
       <td align="center" width="33%">
-        <img src="./notfun.jpeg" width="220px" alt="Games" /><br/>
+        <img src="./assets/notfun.jpeg" width="220px" alt="Games" /><br/>
         <b>Games</b><br/>
         <i>Not A Fun Game.</i>
       </td>
