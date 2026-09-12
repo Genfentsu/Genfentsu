@@ -23,25 +23,25 @@
 
 ---
 
-### 🎧 I Like
+### 💚 I Like
 
 <p align="center">
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="./music.png" width="220px" alt="Music" /><br/>
+        <img src="./guy.jpeg" width="220px" alt="Music" /><br/>
         <b>Music</b><br/>
-        <i>Music that fuels the code.</i>
+        <i>Most Played Playlist.</i>
       </td>
       <td align="center" width="33%">
-        <img src="./food.png" width="220px" alt="Food" /><br/>
+        <img src="./mellow.jpeg" width="220px" alt="Food" /><br/>
         <b>Food</b><br/>
-        <i>Fueling the grind with great food.</i>
+        <i>I'mma Be Snacking on this for hours.</i>
       </td>
       <td align="center" width="33%">
-        <img src="./games.png" width="220px" alt="Games" /><br/>
+        <img src="./fckthisgame.png" width="220px" alt="Games" /><br/>
         <b>Games</b><br/>
-        <i>Strategizing and unwinding in-game.</i>
+        <i>This Game Is Not Fun Dont Play This.</i>
       </td>
     </tr>
   </table>
