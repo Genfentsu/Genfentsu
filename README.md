@@ -7,9 +7,12 @@
     </td>
     <td align="left" valign="middle" style="border: none;">
       <h1 align="left" style="margin-bottom: 5px; display: flex; align-items: center;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=26&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=280&height=50&lines=Genfentsu" alt="Genfentsu" style="vertical-align: middle;" />
+        
+        <!-- Fully Self-Contained Inline SVG Data URI (Works in VS Code & GitHub) -->
+        <img src="data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='280' height='50'&gt;&lt;style&gt;@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');@keyframes waterWave{0%2C100%{transform:translateY(0px)}50%{transform:translateY(-4px)}}.pixel-wave-title{font-family:'Press+Start+2P',monospace;font-size:26px;fill:%23FFFFFF;filter:drop-shadow(3px 3px 0px %23000000);animation:waterWave 3s ease-in-out infinite}&lt;/style&gt;&lt;text x='0' y='35' class='pixel-wave-title'&gt;Genfentsu&lt;/text&gt;&lt;/svg&gt;" alt="Genfentsu" style="vertical-align: middle;" />
+
         <a href="https://github.com/Genfentsu" style="margin-left: 10px; vertical-align: middle;">
-          <img src="https://komarev.com/ghpvc/?username=Genfentsu&label=Profile%20Views&color=ffffff&style=flat&logoColor=black" alt="Profile Views" />
+          <img src="https://komarev.com/ghpvc/?username=Genfentsu&label=Profile%20Views&color=ffffff&style=flat&logoColor=black" alt="Genfentsu Views" />
         </a>
       </h1>
       <p align="left" style="color: #A3A3A3; font-family: monospace; font-size: 14px; margin-top: 5px;">
@@ -26,6 +29,7 @@
 </p>
 
 </div>
+
 ---
 
 ### 🚀 About Me

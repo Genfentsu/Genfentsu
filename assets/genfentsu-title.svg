@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="50" viewBox="0 0 280 50">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+    @keyframes waterWave {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-4px); }
+    }
+    .pixel-wave-title {
+      font-family: 'Press Start 2P', monospace;
+      font-size: 26px;
+      fill: #FFFFFF;
+      filter: drop-shadow(3px 3px 0px #000000);
+      animation: waterWave 3s ease-in-out infinite;
+    }
+  </style>
+  <text x="0" y="35" class="pixel-wave-title">Genfentsu</text>
+</svg>
