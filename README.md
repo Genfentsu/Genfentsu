@@ -6,10 +6,10 @@
       <img src="./assets/numba1.jpg" width="160px" alt="Profile Picture" style="border-radius: 50%; border: 3px solid #FFFFFF;" />
     </td>
     <td align="left" valign="middle" style="border: none;">
-      <h1 align="left" style="margin-bottom: 0px;">
+      <h1 align="left" style="margin-bottom: 0px; display: flex; align-items: center; gap: 15px;">
         <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=26&duration=5000&pause=10000000&color=FFFFFF&center=false&vCenter=true&width=260&height=40&lines=Genfentsu" alt="Genfentsu" style="vertical-align: middle;" />
-        <a href="https://github.com/Genfentsu" style="margin-left: 10px; vertical-align: middle;">
-          <img src="https://komarev.com/ghpvc/?username=Genfentsu&label=Profile%20Views&color=ffffff&style=flat&logoColor=black" alt="Profile Views" />
+        <a href="https://github.com/Genfentsu" style="vertical-align: middle;">
+          <img src="https://komarev.com/ghpvc/?username=Genfentsu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
         </a>
       </h1>
       <hr style="border: 0; height: 1px; background: #333333; margin: 8px 0;" />
