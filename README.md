@@ -52,12 +52,37 @@
 ### 🧩 Mini Game Corner
 
 <div align="center">
-  <h3>Play a Ball Game!</h3>
-  <p><i>Test your skills right from your browser.</i></p>
 
-  <!-- Working Animated Graphic -->
+  <!-- Bouncing Text Animation using SVG -->
+  <svg width="100%" height="70" viewBox="0 0 600 70">
+    <style>
+      .bounce-text {
+        font-family: 'Segoe UI', -apple-system, sans-serif;
+        font-weight: 800;
+        font-size: 28px;
+        fill: #38BDF8;
+        text-anchor: middle;
+        animation: bounce 1.2s ease-in-out infinite alternate;
+      }
+      .sub-text {
+        font-family: 'Segoe UI', -apple-system, sans-serif;
+        font-style: italic;
+        font-size: 15px;
+        fill: #94A3B8;
+        text-anchor: middle;
+      }
+      @keyframes bounce {
+        0% { transform: translateY(0px); }
+        100% { transform: translateY(-12px); }
+      }
+    </style>
+    <text x="300" y="30" class="bounce-text">Play a Ball Game!</text>
+    <text x="300" y="55" class="sub-text">Test your skills right from your browser.</text>
+  </svg>
+
+  <!-- Bouncing Ball Animation -->
   <p>
-    <img src="basketball-bouncing.gif" width="300px" alt="Bouncing Animation" />
+    <img src="https://media.giphy.com/media/3ov9jLsBqPH6rZV4CQ/giphy.gif" width="260px" alt="Bouncing Ball" />
   </p>
   
   <a href="https://github.com/Genfentsu" target="_blank">
