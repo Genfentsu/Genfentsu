@@ -62,7 +62,7 @@
   </p>
   
   <a href="https://github.com/Genfentsu" target="_blank">
-    <img src="https://img.shields.io/badge/🎮_Play_Wordle-Click_Here_to_Launch!-success?style=for-the-badge&logo=codeforces&logoColor=white" alt="Play Wordle" />
+    <img src="https://img.shields.io/badge/🎮_Play_Wordle-Click_Here_to_Launch!-success?style=for-the-badge&logo=codeforces&logoColor=white" alt="BOUNCE THE BALl!" />
   </a>
 </div>
 
