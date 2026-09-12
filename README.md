@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Optional: Replace 'banner.png' with your uploaded image filename, or remove this line if you prefer just text -->
+<img src="./banner.png" width="100%" alt="Profile Banner" />
+
 # ✨ Hi, I'm Steven James P. Leosala <a href="https://github.com/Genfentsu"><img src="https://komarev.com/ghpvc/?username=Genfentsu&label=Profile%20Views&color=0e75b6&style=flat" alt="Genfentsu" /></a>
 
 ### *BSIT 3rd Year Undergraduate | Software Developer & Tech Enthusiast*
