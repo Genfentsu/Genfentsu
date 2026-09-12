@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Optional: Replace 'banner.png' with your uploaded image filename, or remove this line if you prefer just text -->
-<img src="./numba1.jpg" width="75%" alt="Profile Banner" />
+<!-- Smaller profile picture (set to 180px width) -->
+<img src="./banner.png" width="180px" alt="Profile Picture" />
 
 # ✨ Hi, I'm Steven James P. Leosala <a href="https://github.com/Genfentsu"><img src="https://komarev.com/ghpvc/?username=Genfentsu&label=Profile%20Views&color=0e75b6&style=flat" alt="Genfentsu" /></a>
 
@@ -20,6 +20,32 @@
 * 🎯 **Currently studying:** Bachelor of Science in Information Technology (3rd Year).
 * 💡 **Passionate about:** Full-stack development, crafting seamless user interfaces, and solving backend challenges.
 * ⚡ **Fun fact:** Always experimenting with new frameworks, optimizing algorithms, and automating workflows.
+
+---
+
+### 🎧 I Like
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="./music.png" width="220px" alt="Music" /><br/>
+        <b>Music</b><br/>
+        <i>Music that fuels the code.</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="./food.png" width="220px" alt="Food" /><br/>
+        <b>Food</b><br/>
+        <i>Fueling the grind with great food.</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="./games.png" width="220px" alt="Games" /><br/>
+        <b>Games</b><br/>
+        <i>Strategizing and unwinding in-game.</i>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
