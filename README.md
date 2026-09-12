@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Smaller profile picture (set to 180px width) -->
-<img src="./numba1.png" width="180px" alt="Profile Picture" />
+<img src="./numba1.jpg" width="180px" alt="Profile Picture" />
 
 # ✨ Hi, I'm Steven James P. Leosala <a href="https://github.com/Genfentsu"><img src="https://komarev.com/ghpvc/?username=Genfentsu&label=Profile%20Views&color=0e75b6&style=flat" alt="Genfentsu" /></a>
 
