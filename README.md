@@ -1,44 +1,18 @@
 <div align="center">
 
-<!-- Custom Styles for Pixelated Water Wave Effect -->
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-
-@keyframes waterWave {
-  0%, 100% {
-    transform: translateY(0px);
-  }
-  50% {
-    transform: translateY(-5px);
-  }
-}
-
-.pixel-wave-title {
-  font-family: 'Press Start 2P', monospace;
-  font-size: 32px;
-  color: #FFFFFF;
-  text-shadow: 3px 3px 0px #000000;
-  display: inline-block;
-  animation: waterWave 3s ease-in-out infinite;
-  margin: 0;
-}
-
-/* Optional: Dark mode adjustments for white text/borders */
-</style>
-
 <table style="border: none; background: transparent;">
   <tr>
     <td align="center" valign="middle" style="border: none; padding-right: 25px;">
-      <img src="./assets/numba1.jpg" width="180px" alt="Profile Picture" style="border-radius: 50%; border: 3px solid #FFFFFF;" />
+      <img src="./assets/numba1.jpg" width="180px" alt="Profile Picture" style="border-radius: 50%;" />
     </td>
     <td align="left" valign="middle" style="border: none;">
-      <h1 align="left" style="margin-bottom: 5px;">
-        <span class="pixel-wave-title">Genfentsu</span>
-        <a href="https://github.com/Genfentsu" style="margin-left: 10px; vertical-align: middle;">
-          <img src="https://komarev.com/ghpvc/?username=Genfentsu&label=Profile%20Views&color=ffffff&style=flat&logoColor=black" alt="Genfentsu Views" />
+      <h1 align="left">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=26&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=400&height=50&lines=Genfentsu" alt="Genfentsu" />
+        <a href="https://github.com/Genfentsu">
+          <img src="https://komarev.com/ghpvc/?username=Genfentsu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
         </a>
       </h1>
-      <p align="left" style="color: #A3A3A3; font-family: monospace; font-size: 14px; margin-top: 5px;">
+      <p align="left">
         <em>BSIT 3rd Year Undergraduate | Software Developer & Tech Enthusiast</em>
       </p>
     </td>
@@ -48,7 +22,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Hi+i+am+Steven+Leosala;AKA+Genfentsu;IT+Professional;Crafting+%2C+Developing+and+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Hi+i+am+Steven+Leosala;AKA+Genfentsu;IT+Professional;Crafting+%2C+Developing+and+Solving" alt="Typing SVG" />
 </p>
 
 </div>
