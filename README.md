@@ -39,7 +39,7 @@
         <i>I'mma Be Snacking.</i>
       </td>
       <td align="center" width="33%">
-        <img src="./fckthisgame.jpeg" width="220px" alt="Games" /><br/>
+        <img src="./notfun.jpeg" width="220px" alt="Games" /><br/>
         <b>Games</b><br/>
         <i>Not A Fun Game.</i>
       </td>
