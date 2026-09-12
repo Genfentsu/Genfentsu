@@ -31,17 +31,17 @@
       <td align="center" width="33%">
         <img src="./guy.jpeg" width="220px" alt="Music" /><br/>
         <b>Music</b><br/>
-        <i>Most Played Playlist.</i>
+        <i>My GUY.</i>
       </td>
       <td align="center" width="33%">
         <img src="./mellow.jpeg" width="220px" alt="Food" /><br/>
         <b>Food</b><br/>
-        <i>I'mma Be Snacking on this for hours.</i>
+        <i>I'mma Be Snacking.</i>
       </td>
       <td align="center" width="33%">
-        <img src="./fckthisgame.png" width="220px" alt="Games" /><br/>
+        <img src="./fckthisgame.jpeg" width="220px" alt="Games" /><br/>
         <b>Games</b><br/>
-        <i>This Game Is Not Fun Dont Play This.</i>
+        <i>Not A Fun Game.</i>
       </td>
     </tr>
   </table>
