@@ -6,10 +6,10 @@
       <img src="./assets/numba1.jpg" width="180px" alt="Profile Picture" style="border-radius: 50%; border: 3px solid #FFFFFF;" />
     </td>
     <td align="left" valign="middle" style="border: none;">
-      <h1 align="left" style="margin-bottom: 5px; display: flex; align-items: center;">
+      <h1 align="left" style="margin-bottom: 5px;">
         
-        <!-- Fully Self-Contained Inline SVG Data URI (Works in VS Code & GitHub) -->
-        <img src="data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' width='280' height='50'&gt;&lt;style&gt;@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');@keyframes waterWave{0%2C100%{transform:translateY(0px)}50%{transform:translateY(-4px)}}.pixel-wave-title{font-family:'Press+Start+2P',monospace;font-size:26px;fill:%23FFFFFF;filter:drop-shadow(3px 3px 0px %23000000);animation:waterWave 3s ease-in-out infinite}&lt;/style&gt;&lt;text x='0' y='35' class='pixel-wave-title'&gt;Genfentsu&lt;/text&gt;&lt;/svg&gt;" alt="Genfentsu" style="vertical-align: middle;" />
+        <!-- Loads your custom animated pixel wave SVG natively -->
+        <img src="./assets/genfentsu-wave.svg" alt="Genfentsu" style="vertical-align: middle;" />
 
         <a href="https://github.com/Genfentsu" style="margin-left: 10px; vertical-align: middle;">
           <img src="https://komarev.com/ghpvc/?username=Genfentsu&label=Profile%20Views&color=ffffff&style=flat&logoColor=black" alt="Genfentsu Views" />
@@ -19,6 +19,7 @@
         <em>BSIT 3rd Year Undergraduate | Software Developer & Tech Enthusiast</em>
       </p>
     </td>
+    
   </tr>
 </table>
 
