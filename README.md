@@ -55,11 +55,6 @@
 
   ### 🏀 Play a Ball Game!
   > *Test your skills right from your browser.*
-
-  <!-- Bouncing Ball Animation -->
-  <p>
-    <img src="https://media.giphy.com/media/3ov9jLsBqPH6rZV4CQ/giphy.gif" width="260px" alt="Bouncing Ball" />
-  </p>
   
   <a href="https://github.com/Genfentsu" target="_blank">
     <img src="https://img.shields.io/badge/🎮_Play_Ball-Click_Here_to_Launch!-success?style=for-the-badge&logo=codeforces&logoColor=white" alt="BOUNCE THE BALl!" />
