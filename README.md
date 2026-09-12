@@ -54,8 +54,12 @@
 <div align="center">
   <h3>Play a Quick Word Guessing Game!</h3>
   <p><i>Test your vocabulary skills right from your browser.</i></p>
+
+  <!-- Bouncing Ball Animation Visual -->
+  <p>
+    <img src="https://assets.gammastack.com/wp-content/uploads/2023/04/arcade-game-development-banner.gif" width="80%" alt="Mini Game Animation" />
+  </p>
   
-  <!-- Interactive Wordle / Mini Game Badge or Link Card -->
   <a href="https://github.com/Genfentsu" target="_blank">
     <img src="https://img.shields.io/badge/🎮_Play_Wordle-Click_Here_to_Launch!-success?style=for-the-badge&logo=codeforces&logoColor=white" alt="Play Wordle" />
   </a>
