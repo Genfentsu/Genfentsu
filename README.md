@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Smaller profile picture (set to 180px width) -->
+<!-- Profile Picture -->
 <img src="./numba1.jpg" width="65%" alt="Profile Picture" />
 
 # ✨ Hi, I'm Steven James P. Leosala <a href="https://github.com/Genfentsu"><img src="https://komarev.com/ghpvc/?username=Genfentsu&label=Profile%20Views&color=0e75b6&style=flat" alt="Genfentsu" /></a>
@@ -46,6 +46,20 @@
     </tr>
   </table>
 </p>
+
+---
+
+### 🧩 Mini Game Corner
+
+<div align="center">
+  <h3>Play a Quick Word Guessing Game!</h3>
+  <p><i>Test your vocabulary skills right from your browser.</i></p>
+  
+  <!-- Interactive Wordle / Mini Game Badge or Link Card -->
+  <a href="https://github.com/Genfentsu" target="_blank">
+    <img src="https://img.shields.io/badge/🎮_Play_Wordle-Click_Here_to_Launch!-success?style=for-the-badge&logo=codeforces&logoColor=white" alt="Play Wordle" />
+  </a>
+</div>
 
 ---
 
