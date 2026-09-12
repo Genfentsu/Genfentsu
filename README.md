@@ -52,12 +52,12 @@
 ### 🧩 Mini Game Corner
 
 <div align="center">
-  <h3>Play a Quick Word Guessing Game!</h3>
-  <p><i>Test your vocabulary skills right from your browser.</i></p>
+  <h3>Play a Ball Game!</h3>
+  <p><i>Test your skills right from your browser.</i></p>
 
   <!-- Working Animated Graphic -->
   <p>
-    <img src="file:///C:/Users/WIN%2010/Desktop/pictures%20for%20github/bouncy-balls.svg" width="300px" alt="Bouncing Animation" />
+    <img src="basketball-bouncing.gif" width="300px" alt="Bouncing Animation" />
   </p>
   
   <a href="https://github.com/Genfentsu" target="_blank">
