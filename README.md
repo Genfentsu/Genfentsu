@@ -154,5 +154,5 @@
 ---
 
 <div align="center">
-  <i>⚡ "Striving to write clean, elegant, and efficient code everyday."</i>
+  <i> "Expecting The Unexpected — Makes the Unexpected Expecting."</i>
 </div>
