@@ -55,9 +55,9 @@
   <h3>Play a Quick Word Guessing Game!</h3>
   <p><i>Test your vocabulary skills right from your browser.</i></p>
 
-  <!-- Bouncing Ball Animation Visual -->
+  <!-- Working Animated Graphic -->
   <p>
-    <img src="https://assets.gammastack.com/wp-content/uploads/2023/04/arcade-game-development-banner.gif" width="80%" alt="Mini Game Animation" />
+    <img src="https://media.giphy.com/media/3ov9jLsBqPH6rZV4CQ/giphy.gif" width="300px" alt="Bouncing Animation" />
   </p>
   
   <a href="https://github.com/Genfentsu" target="_blank">
