@@ -3,17 +3,17 @@
 <table style="border: none !important; border-collapse: collapse !important; background: transparent !important;">
   <tr style="border: none !important; background: transparent !important;">
     <td align="center" valign="middle" style="border: none !important; padding-right: 25px; background: transparent !important;">
-      <img src="./assets/numba1.jpg" width="160px" alt="Profile Picture" style="border-radius: 50%; border: 3px solid #FFFFFF;" />
+      <img src="./assets/numba1.jpg" width="160px" alt="Profile Picture" style="border-radius: 50%; border: 3px solid currentColor;" />
     </td>
     <td align="left" valign="middle" style="border: none !important; background: transparent !important;">
       <div style="margin-bottom: 0px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=400&size=26&duration=5000&pause=10000000&color=FFFFFF&center=false&vCenter=true&width=260&height=40&lines=Genfentsu" alt="Genfentsu" style="vertical-align: middle;" />
+        <span style="font-family: 'Press Start 2P', monospace; font-size: 24px; font-weight: bold;">Genfentsu</span>
         <a href="https://github.com/Genfentsu" style="margin-left: 10px; vertical-align: middle;">
           <img src="https://komarev.com/ghpvc/?username=Genfentsu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
         </a>
       </div>
-      <hr style="border: 0; height: 1px; background: #444444; margin: 10px 0;" />
-      <p align="left" style="color: #A3A3A3; font-family: monospace; font-size: 13px; margin: 0;">
+      <hr style="border: 0; height: 1px; background: #888888; margin: 10px 0;" />
+      <p align="left" style="font-family: monospace; font-size: 13px; margin: 0;">
         <em>BSIT 3rd Year Undergraduate | Software Developer & Tech Enthusiast</em>
       </p>
     </td>
@@ -23,7 +23,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Hi+i+am+Steven+Leosala;AKA+Genfentsu;IT+Professional;Crafting+%2C+Developing+and+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Hi+i+am+Steven+Leosala;AKA+Genfentsu;IT+Professional;Crafting+%2C+Developing+and+Solving" alt="Typing SVG" />
 </p>
 
 </div>
@@ -42,19 +42,19 @@
 
 ### 💚 I Like
 
-  <table style="margin-left: auto; margin-right: auto;">
+  <table style="margin-left: auto; margin-right: auto; border: none !important;">
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="33%" style="border: none !important;">
         <img src="./assets/guy.jpeg" width="220px" alt="Music" /><br/>
         <b>Music</b><br/>
         <i>My GUY.</i>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="33%" style="border: none !important;">
         <img src="./assets/mellow.jpeg" width="220px" alt="Food" /><br/>
         <b>Food</b><br/>
         <i>I'mma Be Snacking.</i>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="33%" style="border: none !important;">
         <img src="./assets/notfun.jpeg" width="220px" alt="Games" /><br/>
         <b>Games</b><br/>
         <i>Not A Fun Game.</i>
@@ -110,24 +110,28 @@
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### 📊 GitHub Stats & Dashboard
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Genfentsu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <!-- General Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Genfentsu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Genfentsu's GitHub Stats" width="48%" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genfentsu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Genfentsu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Genfentsu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <!-- Trophies Card -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Genfentsu&theme=tokyonight&no-bg=true&margin-w=5&margin-h=5&column=3&row=1" alt="GitHub Trophies" width="48%" />
+</p>
 
 ---
 
-### 🏆 Achievements & Trophies
+### 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Genfentsu&theme=tokyonight&no-bg=true&margin-w=5&margin-h=5&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Genfentsu&theme=tokyonight&no-bg=true&margin-w=5&margin-h=5&column=4" alt="GitHub Trophies Full" />
 </div>
 
 ---
