@@ -126,6 +126,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Genfentsu&theme=github_dark" alt="Productive Time" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Genfentsu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
+
 ---
 
 ### 🏆 Achievements
