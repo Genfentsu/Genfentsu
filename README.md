@@ -112,19 +112,26 @@
 
 ### 📊 GitHub Stats & Dashboard
 
-<p align="center">
-  <!-- General Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Genfentsu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Genfentsu's GitHub Stats" width="48%" />
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genfentsu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Genfentsu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <!-- Trophies Card -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Genfentsu&theme=tokyonight&no-bg=true&margin-w=5&margin-h=5&column=3&row=1" alt="GitHub Trophies" width="48%" />
-</p>
+<div align="center">
+  <table style="border: none !important; background: transparent !important;">
+    <tr style="border: none !important; background: transparent !important;">
+      <td align="center" style="border: none !important; background: transparent !important;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Genfentsu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Genfentsu's GitHub Stats" />
+      </td>
+      <td align="center" style="border: none !important; background: transparent !important;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genfentsu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr style="border: none !important; background: transparent !important;">
+      <td align="center" style="border: none !important; background: transparent !important;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Genfentsu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+      <td align="center" style="border: none !important; background: transparent !important;">
+        <img src="https://github-profile-trophy.vercel.app/?username=Genfentsu&theme=tokyonight&no-bg=true&margin-w=5&margin-h=5&column=3&row=1" alt="GitHub Trophies" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
