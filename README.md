@@ -38,10 +38,11 @@
 
 ---
 
+<div align="center">
+
 ### 💚 I Like
 
-<p align="center">
-  <table>
+  <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center" width="33%">
         <img src="./assets/guy.jpeg" width="220px" alt="Music" /><br/>
@@ -60,7 +61,8 @@
       </td>
     </tr>
   </table>
-</p>
+
+</div>
 
 ---
 
