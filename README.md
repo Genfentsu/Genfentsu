@@ -110,18 +110,20 @@
 
 ---
 
-### 📊 GitHub Stats & Dashboard
+### 📊 GitHub Stats & Summary Cards
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Genfentsu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Genfentsu's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Genfentsu&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genfentsu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Genfentsu&theme=github_dark" alt="Top Languages by Repo" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Genfentsu&theme=github_dark" alt="Top Languages by Commit" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Genfentsu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Genfentsu&theme=github_dark" alt="Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Genfentsu&theme=github_dark" alt="Productive Time" width="48%" />
 </p>
 
 ---
