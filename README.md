@@ -127,7 +127,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Genfentsu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Genfentsu&theme=tokyonight&hide_border=true&background=transparent&ring=10B981&fire=10B981&currStreakNum=10B981&sideNums=10B981" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
