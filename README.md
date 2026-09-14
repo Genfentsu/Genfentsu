@@ -72,9 +72,9 @@
 
   ### 🏀 Play a Ball Game!
   > *Test your skills right from your browser.* 
-  > *this is not working sorry still working on it.*
+  > *Click the button below to launch the arcade shootout!*
 
-  <a href="https://github.com/Genfentsu" target="_blank">
+  <a href="https://genfentsu.github.io/SimpleBasketBallGame/" target="_blank">
     <img src="https://img.shields.io/badge/🎮_Play_Ball-Click_Here_to_Launch!-success?style=for-the-badge&logo=codeforces&logoColor=white" alt="BOUNCE THE BALl!" />
   </a>
 </div>
