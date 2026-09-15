@@ -6,8 +6,8 @@
       <img src="./assets/numba1.jpg" width="160px" alt="Profile Picture" style="border-radius: 50%; border: 3px solid currentColor;" />
     </td>
     <td align="left" valign="middle" style="border: none !important; background: transparent !important;">
-      <div style="margin-bottom: 0px;">
-        <span style="font-family: 'Press Start 2P', monospace; font-size: 24px; font-weight: bold;">Genfentsu</span>
+      <div style="margin-bottom: 0px; display: flex; align-items: center;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=700&size=24&duration=4000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=240&height=35&lines=Genfentsu" alt="Genfentsu" style="vertical-align: middle;" />
         <a href="https://github.com/Genfentsu" style="margin-left: 10px; vertical-align: middle;">
           <img src="https://komarev.com/ghpvc/?username=Genfentsu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
         </a>
