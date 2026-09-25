@@ -164,5 +164,5 @@
 ---
 
 <div align="center">
-  <i> "Expecting The Unexpected — Makes the Unexpected Expecting." i miss you !<</i>
+  <i> "Expecting The Unexpected — Makes the Unexpected Expecting."<</i>
 </div>
